@@ -6,4 +6,4 @@ I got tired of manually scrubbing through replay files to spot triggerbot users.
 
 Replay parsing is CPU-bound; don't expect it to be fast on a full night's matches.
 
-<!-- updated: 2026-10-06 -->
+<!-- updated: 2026-10-07 -->
